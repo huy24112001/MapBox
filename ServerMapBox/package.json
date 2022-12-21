@@ -1,0 +1,21 @@
+{
+  "name": "servermapbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MapBox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon MapBox.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.7.5",
+    "nodemon": "^2.0.20",
+    "openssl-nodejs": "^1.0.5"
+  }
+}
